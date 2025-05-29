@@ -73,7 +73,7 @@
 | [Finnacle](https://github.com/yuncof/finnacle_project) | 본인인증 기반 안전한 금융 거래 및 계약 플랫폼 | Spring Boot, Vue.js               |
 | [Bookiki](https://github.com/yuncof/bookiki)           | 무인 스마트 도서관 시스템                     | Spring Boot, Vue.js, Raspberry Pi |
 | [FormMate](https://github.com/FormMate205/FormMate)    | 본인인증 기반 안전한 금융 거래 및 계약 플랫폼 | Spring Boot, WebSocket, JWT       |
-| [PixmeUp](https://github.com/yuncof/pixmeup)           | 안구 건강 예측 AI 솔루션                      | Spring Boot, FastAPI, YOLOv8      |
+| [PixmeUp](https://github.com/yuncof/pixmeup)           | 눈 건강 진단 및 예측 AI 솔루션                      | Spring Boot, FastAPI, YOLOv8      |
 
 ---
 
